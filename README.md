@@ -1,2 +1,2 @@
 # LoterijaNP
-Naloga iz testa Naprednega programiranja na FERI
+Koda iz testa predmeta Napredno programiranje na FERI
